@@ -1,4 +1,4 @@
-project_name: "ga_four"
+project_name: "oss_looker"
 
 ## Connection Constants:
 constant: GA4_CONNECTION {
