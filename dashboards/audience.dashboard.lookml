@@ -1,5 +1,5 @@
 - dashboard: audience
-  title: "[GA4] Audience"
+  title: "[GA4] OSS Audience"
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:

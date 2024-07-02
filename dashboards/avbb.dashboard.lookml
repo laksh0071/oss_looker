@@ -1,6 +1,6 @@
 ---
 - dashboard: avbb
-  title: "[GA4] AVBB Model"
+  title: "[GA4] OSS AVBB Model"
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''

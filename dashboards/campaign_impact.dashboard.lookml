@@ -1,5 +1,5 @@
 - dashboard: ga4_campaign_impact
-  title: "[GA4] Campaign Impact"
+  title: "[GA4] OSS Campaign Impact"
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:
