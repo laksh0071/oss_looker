@@ -12,7 +12,7 @@ constant: GA4_SCHEMA {
 }
 
 constant: GA4_TABLE_VARIABLE {
-  value: "analytics_314580844.events_**"
+  value: "analytics_314580844.events_*"
   export: override_optional
 }
 constant: EVENT_COUNT {
