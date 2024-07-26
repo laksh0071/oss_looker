@@ -1,5 +1,5 @@
 - dashboard: oss_acquisition
-  title: "[GA4] OSS Acquisition"
+  title: "Schweser Web Performance"
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:
